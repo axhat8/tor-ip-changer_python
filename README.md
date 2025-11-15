@@ -2,6 +2,7 @@
 
 A fancy, cross-platform, and user-friendly script to automatically change your Tor IP address. Designed for privacy enthusiasts and developers who need to rotate their IP address on the fly.
 
+Run process is in the bottom
 ![Banner](https://raw.githubusercontent.com/user/repo/main/banner.png)  <!-- You will need to upload a screenshot and replace this URL -->
 
 ## ✨ Features
